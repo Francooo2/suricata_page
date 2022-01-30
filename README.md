@@ -2,12 +2,12 @@
 
 Proyecto de práctica, como sitio web de comidas responsive.
 
-![Perfil principal.](https://github.com/Francooo2/meOrganizoApp/blob/main/src/public/img/profile.png?raw=true "Perfil principal")
+![Perfil principal.](https://github.com/Francooo2/suricata_page/blob/main/assets/img/principal.png?raw=true "Perfil principal")
 
 
 ### Demo 📋
 
-[Pincha aquí para ver demo](https://www.meorganizo.digital/)
+[Pincha aquí para ver demo](https://francooo2.github.io/suricata_page/)
 
 ### Pre-requisitos 📋
 
