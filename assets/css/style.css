@@ -1,0 +1,70 @@
+:root {
+    --pink : #e83e8c;
+    --color: #212529;
+    --info : #17a2b8;
+}
+
+.colorpink {
+    background-color: var(--pink);
+}
+
+.info {
+    background-color: var(--info);
+}
+
+.logo_footer {
+    width : 53px;
+    height: 100px;
+}
+
+.typefontregular_nav {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size  : 16px;
+}
+
+.typefontregular_cardtext {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size  : 16px;
+    color      : #373A3C;
+}
+
+.typefontregular_cardetail {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size  : 11px;
+    color      : #373A3C;
+}
+
+.typefontbold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color      : #707070;
+    font-size  : 60px;
+}
+
+.typefontbold-card {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color      : #373A3C;
+    font-size  : 17px;
+}
+.imgcard {
+    filter: brightness(0.75);
+}
+
+@media (max-width: 768px) {
+    .typefontbold {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        color      : #707070;
+        font-size  : 35px;
+    }
+    .logo_footer {
+        position: relative;
+        top     : 10px;
+        width   : 36px;
+        height  : 67px;
+    }
+  }
