@@ -31,7 +31,7 @@ Abre tu editor de preferencia, y ejecuta live server o manualmente en su defecto
 
 ## Construido con 🛠️
 
-* [JavaScript](https://www.javascript.com/) - Lenguaje de programación utilizado.
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - Lenguaje de etiquetas de hypertexto.
 * [Bootstrap](https://getbootstrap.com/) - Libreria de css.
 
 ---
